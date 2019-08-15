@@ -1,0 +1,15 @@
+{
+  "name": "firefox_export_bookmars",
+  "version": "1.0.0",
+  "description": "Automate the process of export bookmarks from Firefox.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "mouse-pos": "node . --mousepos"
+  },
+  "author": "Micael Levi <mykael2010@hotmail.com> (micalevisk.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
