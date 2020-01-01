@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Automate the process of export bookmarks from Firefox.",
   "main": "index.js",
+  "homepage": "bit.ly/ml-favs",
   "scripts": {
     "start": "node .",
     "mouse-pos": "node . --mousepos"
